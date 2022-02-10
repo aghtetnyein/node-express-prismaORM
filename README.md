@@ -12,8 +12,8 @@ Runs the application and watch.
 
 
 # Connect with your db
- Markup : - Copy .env.example to .env in your project folder
-          - Edit DATABASE_URL with yours
+- Copy .env.example to .env in your project folder
+- Edit DATABASE_URL with yours
 
 
 

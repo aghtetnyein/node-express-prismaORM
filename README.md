@@ -15,7 +15,7 @@ Runs the application and watch.
 # Connect with your db
 
 - Copy .env.example to .env in your project folder
-- Edit DATABASE_URL with yours
+- Edit DATABASE_URL with your credentials
 
 # Prisma commends
 

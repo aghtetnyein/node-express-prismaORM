@@ -1,4 +1,4 @@
-# node-express-prismaORM
+# Node-Express-PrismaORM
 Backend platform services with node, express and prismaORM
 
 # Available scripts
@@ -8,6 +8,10 @@ Runs the application one time.
 
 ### `npm run dev`
 Runs the application and watch.
+
+# Connect with your db
+ Markup : * Copy .env.example to .env in your project folder
+          * Edit DATABASE_URL with yours
 
 # Prisma commends
 
